@@ -1,0 +1,9 @@
+1 first we make github acount
+ 2. create empty repo.
+3. local system mein do command ka use karenge
+ git config --global user.name "dingithubcom"
+ git config --global user.mail "dr3604468@gmail.com"
+
+4. jab aap git push -u origin master karne jaoge th error aayega
+4.1 ask karega username = dingithubcom
+4.2 password =  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 
